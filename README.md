@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aamir</h1>
+
+
 <h3 align="center">Cloud Engineer🌩 & a Technophile👨🏻‍💻 from Indore, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aamir296&label=Profile%20views&color=0e75b6&style=flat" alt="aamir296" /> </p>
+- 🌱 I’m currently learning: **DevOps, Automation.**
 
-- 🌱 I’m currently learning **DevOps, Automation.**
+- 📝 I regularly write articles on [Hashnode@aamir296](https://aamir296.hashnode.dev/)
 
-- 📝 I regularly write articles on [https://aamir296.hashnode.dev/](https://aamir296.hashnode.dev/)
+- 💬 Ask me about: **AWS, DevOps or Scripting**
 
-- 💬 Ask me about **AWS, DevOps or Scripting**
-
-- ⚡ Fun fact **I want to automate nearly every task!**
+- ⚡ Fun fact: **I want to automate nearly every task!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
