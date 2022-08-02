@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aamirkhan296" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="aamirkhan296" height="30" width="40" /></a>
-<a href="https://hashnode.com/@aamir296" target="blank"><img align="center" src="https://raw.githubusercontent.com/aamir296/media-content/main/hashnode-svgrepo-com.svg" alt="@aamir296" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
