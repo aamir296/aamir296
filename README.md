@@ -1,19 +1,20 @@
-<h1 align="center">Hi 👋, I'm Aamir</h1>
+<h1 align="center">Hi 👋, I'm Aamir 🙋🏻‍♂️</h1>
 
 
-<h3 align="center">Cloud Engineer🌩 & a Technophile👨🏻‍💻 from Indore, India</h3>
+<h3 align="center"> A Cloud Engineer🌩 & a Technophile👨🏻‍💻 from Indore, India</h3>
 
 - 🌱 I’m currently learning: **DevOps, Automation.**
 
 - 📝 I regularly write articles on [Hashnode@aamir296](https://aamir296.hashnode.dev/)
 
-- 💬 Ask me about: **AWS, DevOps or Scripting**
+- 💬 Reach out to me for: **AWS, DevOps & Scripting**
 
 - ⚡ Fun fact: **I want to automate nearly every task!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aamirkhan296" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="aamirkhan296" height="30" width="40" /></a>
+<a href="https://gitlab.com/aamir296" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="aamir296" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
