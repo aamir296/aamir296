@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/aamirkhan296" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="aamirkhan296" height="30" width="40" /></a>
 <a href="https://gitlab.com/aamir296" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="aamir296" height="30" width="40" /></a>
+<a href="https://aamir296.netlify.app/" target="blank"><img align="center" src="https://github.com/aamir296/aamir296/blob/main/static/my-website.svg" alt="aamir296" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
