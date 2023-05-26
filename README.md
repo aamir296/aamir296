@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm Aamir Khan, a DevOps / Cloud Engineer with a strong passion for automation. I enjoy working with cutting-edge technologies and tools to streamline software development, deployment, and operations. 💻
 
-### About Me
+## About Me 🙋‍♂️
 
 I have extensive experience in designing, implementing, and maintaining cloud-based infrastructure solutions. My expertise lies in building scalable and resilient architectures using various cloud providers such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). I am proficient in creating and managing infrastructure as code using tools like Terraform and CloudFormation. ☁️
 
@@ -12,7 +12,7 @@ Automation is at the core of my work. I believe in the power of automation to in
 
 I am a strong advocate for DevOps practices and strive to foster collaboration between development and operations teams. I am well-versed in continuous integration and continuous deployment (CI/CD) pipelines, leveraging tools like Jenkins, GitLab CI/CD, and AWS CodePipeline. 🌉
 
-### Tools and Technologies
+### Tools and Technologies 🛠️
 
 Here are some of the tools and technologies I work with:
 
@@ -38,7 +38,7 @@ Here are some of the tools and technologies I work with:
 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=plastic&logo=microsoft-sql-server&logoColor=white) SQL
 
-### Connect with Me
+## Connect with me 🌐
 
 Feel free to connect with me on the following platforms:
 
@@ -48,7 +48,7 @@ Feel free to connect with me on the following platforms:
 
 ![Website](https://img.shields.io/badge/-Website-FF7139?style=plastic&logo=curl) [My Website](https://aamir296.netlify.app/)
 
-### Projects and Contributions
+### Projects and Contributions 🚀
 
 I am actively involved in open source projects and enjoy contributing to the developer community. You can find some of my projects and contributions in the repositories listed below: 🌟
 
@@ -58,7 +58,7 @@ I am actively involved in open source projects and enjoy contributing to the dev
 
 Feel free to explore and contribute to these projects! 👀
 
-### Contact Me
+### Contact Me 📧
 
 If you have any questions, suggestions, or would like to collaborate on a project, feel free to reach out to me at [akaamirkhan296@gmail.com](mailto:akaamirkhan296@gmail.com). 📧
 
