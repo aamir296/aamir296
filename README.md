@@ -17,15 +17,25 @@ I am a strong advocate for DevOps practices and strive to foster collaboration b
 Here are some of the tools and technologies I work with:
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white) Amazon Web Services (AWS)
+
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white) Microsoft Azure
+
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=plastic&logo=google-cloud&logoColor=white) Google Cloud Platform (GCP)
+
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=plastic&logo=terraform&logoColor=white) Terraform
+
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=plastic&logo=ansible&logoColor=white) Ansible
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white) Docker
+
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white) Kubernetes
+
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white) Jenkins
+
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab&logoColor=white) GitLab CI/CD
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white) Python
+
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=plastic&logo=microsoft-sql-server&logoColor=white) SQL
 
 ### Connect with Me
@@ -33,7 +43,9 @@ Here are some of the tools and technologies I work with:
 Feel free to connect with me on the following platforms:
 
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/aamirkhan296/)
+
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab&logoColor=white) [GitLab](https://gitlab.com/aamir296)
+
 ![Website](https://img.shields.io/badge/-Website-FF7139?style=plastic&logo=curl) [My Website](https://aamir296.netlify.app/)
 
 ### Projects and Contributions
